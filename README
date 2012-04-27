@@ -1,0 +1,4 @@
+This is a script I wrote as part of an undergraduate research project to better understand Bruce Bueno de Mesquita's (BDM) game theoretic, predictive, forecasting model. It doesn't have an official name, but it's referred to in the literature as the Expected Utility Model (EUM). The code is based on the pre-2009 version of the model. Until now there has yet to be any published code of the model, whether as the new or old version. Seeing as how all references to BDM's predictions arise from the pre-2009 model despite being very different from the new version, the code for the old version is still relevant today.
+
+
+PAQ (Possibly Asked Question)
