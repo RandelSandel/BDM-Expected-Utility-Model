@@ -8,3 +8,8 @@ A: No. There are some very important pieces of the model that have yet to be for
 
 Q: Do the expected utility (EU) values match those published in the literature?
 A: No. After an endless amount trial and error, I determined the only possible explanation for the discrepency is that the code used to calculate the published EU values for first round voting does not follow the published math and logic for the model exactly. The code used for the published values either includes or doesn't include something from the published model, or doesn't implement the published model correctly. Without any published code, again, I have no way of knowing.
+
+
+Tips:
+- Increase the time limit allowed for scripts to run in your php.ini to 30 minutes.
+- The script takes much longer to run the smaller the number for Precision is, so use a Precision of 1 (meaning a position granularity of 1).
